@@ -242,6 +242,6 @@ External contributions may be accepted after the MVP milestone.
 
 # 💬 Contact
 
-**Author:** Yaswanth Vemulapalli
-**LinkedIn:** https://linkedin.com/in/vemyaswanth
+**Author:** Yaswanth Vemulapalli<br>
+**LinkedIn:** https://linkedin.com/in/vemyaswanth<br>
 **Email:** me@vyaswanth.me
